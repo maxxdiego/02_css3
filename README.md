@@ -1,2 +1,6 @@
 # 02_css
- Materiais de estudo CSS
+:warning: **Este material ainda está em desenvolvimento!**
+
+&nbsp;
+*Materiais de estudo CSS.*
+
