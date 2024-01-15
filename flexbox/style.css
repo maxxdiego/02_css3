@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    height: 100%;    
+    flex-direction: row; /* row ou column*/
+    flex-wrap: wrap; /* nowrap ou wrap */
+    justify-content: center;  /* alinhamento horizontal */
+    /* flex-start, flex-end, center, space-around, space-between */
+    align-items: center; /* alinhamento vertical */
+    /* flex-start, flex-end, center */
+    background-color: blue;  
+}
+
+.filha {
+    display: flex;
+    width: 40%; /* 40% */
+    height: 200px;
+    background-color: red;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    color: white;   
+}
+
