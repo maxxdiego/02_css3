@@ -16,8 +16,6 @@ git clone https://github.com/maxxdiego/02_css.git
 
 ```
 
-No navegador acessar as aplicações através do localhost:5000.
-
 # Autor
 
 Prof. Diego Max da Silva<br>
