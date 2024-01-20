@@ -1,5 +1,24 @@
-# 02_css
-:warning: **Este material ainda está em desenvolvimento!**
+# CSS3
+![NPM](https://img.shields.io/npm/l/react)
+# Descrição
 
-&nbsp;
-*Materiais de estudo CSS.*
+:warning: Ainda em construção. :construction:
+
+## Como executar
+
+Pré-requisitos: 
+- Visual Studio Code
+- GIT
+
+```bash
+# clonar repositório
+git clone https://github.com/maxxdiego/02_css.git
+
+```
+
+No navegador acessar as aplicações através do localhost:5000.
+
+# Autor
+
+Prof. Diego Max da Silva<br>
+https://lattes.cnpq.br/4370663836049458
